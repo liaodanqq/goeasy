@@ -1,0 +1,711 @@
+/*媒体查询-响应ipad*/
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+	
+body{
+	overflow-x: hidden;
+}
+.web_none{
+	display: none;
+}
+.ipad_none{
+		display:none;
+	}
+.navfixed {   
+    width: 100%;
+	background: none;
+	background-size:100% 100%;
+	position: fixed;
+	z-index: 999;
+	min-width: 100%;
+	background: linear-gradient(60deg, #6041bf, #6076f3);
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr='#6041bf',endcolorstr='#6076f3',gradientType=1);   
+}
+.partOne1w_zda {
+    margin-right: 7px;
+    font-size: 13px;
+}
+.svg_tuoyuan {
+    width: 110%;
+    height: auto;
+    margin-top: -84px;
+    margin-left: -5%;
+}
+
+.partOne1w_zimg {
+    height: 30px;
+    width: auto;
+    margin-top: 14px;
+    margin-right: 12px;
+}
+.partOne1w_ys1 {
+    font-size: 13px;
+    margin-right: 10px;
+}
+.partOne1w_ys1 img {
+    height: 16px;
+    width: auto;
+    margin-right: 9px;
+    position: relative;
+    top: 3px;
+}
+.partOne1w_ya1 {
+    font-size: 14px;
+    margin-right: 10px;
+}
+.partOne1w_ya2 {
+    padding: 0 5px;
+    font-size: 14px;
+
+}
+.partOne1c_l {
+    width: 33%;
+    height: 100%;
+    position: relative;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    margin-left: 4%;
+   	margin-right: 20px;
+}
+.partOne1c_lh1 {
+    width: 100%;
+    font-size: 22px;
+    font-family: arial;
+    margin-top: 48px;
+    line-height: 32px;
+    color: #fff;
+    font-weight: bold;
+}
+.partOne1c_y {
+    width: 60%;
+    height: auto;
+    margin-top: 8px;
+}
+.partOne1c_ydd1{
+	top:-36px;
+	left:-27px;
+}
+.partOne1c_ydd2{
+	left: 33%;
+	top:38px;
+}
+.partOne1c_ydd4{
+	    top: 66px;
+    right: 15px;
+}
+.partOne1c_ydd5{
+	left: 12%;
+	bottom: 102px;
+}
+.partOne1c_ydd6{
+	left: 36%;
+	bottom: 122px;
+}
+.partOne1c_lp {
+    width: 100%;
+    font-size: 18px;
+    font-family: arial;
+	line-height: 15px;
+    color: #fff;
+    margin-bottom: 34px;
+}
+.partOne1c_ydd3{
+	right:18%;
+	top:70px;
+}
+.partOne1c_yuld2img {
+    margin-right: 18px;
+}
+.partOne1 {
+	width: 100%;
+	height: 590px;	
+	background: linear-gradient(60deg, #6041bf, #6076f3);
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr='#6041bf',endcolorstr='#6076f3',gradientType=1);
+	margin: 0 auto;
+}
+.pribconli {
+    width: auto;
+}
+.partOne2h1 {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: arial;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.partOne2d_wrap {
+    width: 720px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.partOne2d1img {
+    margin-right: 2%;
+}
+.partOne2d1img img {
+    height: 214px;
+    width: auto;
+    margin-left: 45px;
+}
+.partOne2d1div{
+	width: auto;
+	right: 0;
+	margin-right:26px;
+}
+.partOne2d1div,.partOne2d2div{
+	padding: 20px 50px;
+}
+
+.partOne2d2img img{
+    height: 230px;
+    margin-top: 38px;
+}
+.partOne2d2div{
+	margin-left: 0;
+}
+.partOne3wrap {
+    width: 720px;
+    margin: 0 auto;
+}
+.partOne2 {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.partOne3{
+	padding: 30px 0;
+}
+.partOne3z {
+    width: 358px;
+    height: 232px;
+    background: url(../images/partone3zBg.png) no-repeat 0 0;
+    background-size: contain;
+    position: relative;
+}
+.partOne3zd1,.partOne3zd2{
+    position: absolute;
+    left: 70px;
+}
+.partOne3z div img {
+    height: 58px;
+    width: auto;
+}
+.partOne3zd2 {
+    top: 91px;
+}
+.partOne3y {
+    width: 41%;
+    margin-top: 18px;
+}
+.partOne3yh1 {
+    font-size: 30px;
+    color: #fff;
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.partTw {
+    width: 100%;
+    height: auto;
+    background: #ffffff;
+    min-width: 768px;
+}
+.partT {
+    width: 720px;
+    padding: 50px 0;
+    margin: 0 auto;
+}
+.partTulli {
+    width: 100%;
+    height: 146px;
+    overflow: hidden;
+    float: none;
+    margin: 0 auto;
+    margin-bottom: 34px;
+    padding: 20px 0;
+}
+.parthw {
+    width: 100%;
+    height: auto;
+    background: #fafbff;
+    padding: 40px 0;
+    min-width: 100%;
+}
+
+.partTulli_ul{
+	margin: 0;
+	margin-left: 30%;
+}
+.parth {
+    width: 720px;
+    margin: 0 auto;
+}
+.parthulli02margin {
+    margin: 0 1%;
+    margin-bottom: 10px;
+}
+.parthulli05margin {
+    margin: 0 0px;
+}
+.partOne1c {
+    width: 720px;
+    height: 367px;
+    padding-bottom: 30px;
+    padding-top: 158px;
+    background: url(../images/ditu_zuizhong.png) no-repeat right;
+    background-size: 560px 370px;
+}
+
+
+.partfw {
+    width: 100%;
+    height: auto;
+    padding: 60px 0;
+    height: auto;
+    background: #25273e;
+    min-width: 100%;
+}
+.partf {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.partOne1w {
+    width: 720px;
+    height: 72px;
+    margin: 0 auto;
+}
+.partOne1c_yuld1, .partOne1c_yuld2{
+	/*text-align: center;*/
+}
+.partOne1c_yul{
+	width: 110%;
+	margin-top:-60px;
+}
+.partOne1w_ya2 {
+    height: 33px;
+    line-height: 33px;
+    padding: 0 10px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    font-family: arial;
+    font-size: 14px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 4px;
+}
+.partOne1c_yuld1, .partOne1c_yuld2{
+	margin-bottom: 3px;
+}
+.partOne1c_ydd7 {
+    width: 74px;
+    height: 74px;
+    position: absolute;
+    bottom: 52px;
+    right: 21%;
+    text-align: center;
+}
+.J_partTulli02 .partTulli_ul,.partTulli_ul.partTulli_ul3,.partTulli_ul.partTulli_ul4{
+	margin-top: 0;
+}
+.partTul {
+    width: 100%;
+    margin-top: 40px;
+}
+.parthul {
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+}
+.parthulli01margin,.parthulli03margin,.parthulli05margin{
+    margin: 0 1%;
+}
+.parthulli04margin,.parthulli06margin{
+	margin: 0 1%;
+}
+.parthulli{
+	margin-bottom: 20px;
+}
+.partOne2d2img{
+	margin-right: 2%;
+}
+/*FAQ*/
+.fqa {
+    width: 720px;
+    margin: 0 auto;
+    padding-top: 120px;
+    margin-bottom: 100px;
+}
+
+/*Pricing页面*/
+.prid {
+    width: 720px;
+    margin: 0 auto;
+    padding-top: 134px;
+}
+.priimgbolang_top {
+	width: 100%;
+	margin: 0 auto;
+    margin-top: -230px;
+    _margin-top: -170px;
+    z-index: 99;
+    position: relative;
+}
+.priimgbolang_top {
+    margin-top: -230px;
+    _margin-top: -170px;
+    z-index: 99;
+    position: relative;
+}
+.priimgbolang_bot{
+	width:100%;
+	margin: 0 auto;
+}
+.prib,.pribcon,.pribbot{
+    width: 720px;
+  
+}
+.getfdcon{
+	height: auto;
+}
+
+.pdful_li {
+    width: 350px;
+}
+.pridcul_li {
+    width: 48%;
+    margin: 0 1%;
+    margin-bottom: 40px;
+}
+.fqa_listlid2_h1_p{
+	line-height: 26px;
+}
+.pridcul_li02{
+	margin: 0 1%;
+	 margin-bottom: 40px;
+}
+.pridcul_li02{
+	margin: 0 1%;
+	 margin-bottom: 40px;
+}
+.prid_toph1 {
+    font-size: 25px;
+    line-height: 40px;
+}
+.prid_top {
+    margin-bottom: 63px;
+}
+.prid_topp {
+    font-size: 16px;
+}
+.prid_topa {
+    font-size: 16px;
+    line-height: 46px;
+    padding: 0 20px;
+}
+.pridcul_lid1top1 {
+    font-size: 20px;
+}
+.pridcul_lid1top2 {
+    font-size: 14px;
+}
+.pridcul_lid2_div1s1 {
+    font-size: 22px;
+}
+.pridcul_lid2_div1s2 {
+    font-size: 14px;
+}
+.pridcul_lid2_div2p {
+    font-size: 14px;
+    }
+.pribtop1_p {
+    font-size: 20px;
+}
+.pribtop2s {
+    font-size: 16px;
+}
+.pribtop2img {
+    height: 22px;
+}
+.pribconlid1 {
+    font-size: 18px;
+}
+.pribconlid2s1 {
+    font-size: 30px;
+}
+/*gettingStarted.html*/
+.getow {
+    width: 720px;
+    margin: 0 auto;
+}
+.getowl {
+    width: 45%;
+}
+.getowlh1 {
+    font-size: 26px;
+    line-height: 36px;
+}
+.getowldiv {
+    width: 92%;
+    height: auto;
+    border: 1px solid #2ee599;
+    border-radius: 10px;
+    margin-top: 30px;
+    padding: 24px;
+}
+.getowldivul_lis2 {
+    font-size: 15px;
+}
+.getowldivul_lis1 {
+    top: 0px;
+}
+.getowrd img {
+    width: 342px;
+    height: auto;
+    margin-top: 13px;
+}
+
+.geto {
+    width: 100%;
+    height: 350px;
+}
+.svg_tuoyuanget {
+    width:100%;
+    height: auto;
+}
+.getfw{
+    width: 720px;
+    margin: 0 auto;
+}
+.getf {
+    padding-top: 78px;
+}
+.getfwtopd1 {
+    font-size: 90px;
+}
+.getfwtopd2 {
+    margin-top: -48px;
+}
+.getfwtopd2h1 {
+    font-size: 30px;
+}
+.getfwtop {
+    margin-bottom: 40px;
+}
+.getfwulz {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    float: none;
+}
+.getfwulzd {
+    width: 682px;
+    height: auto;
+}
+    
+.getfwuly{
+	width: 100%;
+    float: none;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.getfwtopd2p2 {
+    width: 70%;
+    color: #9898b7;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 auto;
+    margin-bottom: 14px;
+}
+.getfsybigimg{
+	width: 530px;
+    height: auto;
+    float: none;
+    text-align: right;
+    margin-left: 76px;
+}
+.getfwul {
+    width: 720px;
+    margin: 0 auto;
+    height: auto;
+}
+.getfs {
+    width: 100%;
+    height: auto;
+    float: none;
+    margin: 0 auto;
+}
+.getfd{
+	width:100%;
+	margin-top: 20px;
+}
+.getfsc{
+	margin-bottom: 50px;
+	padding: 40px 111px;
+	float: none;
+}
+.getfsy {
+    width: 100%;
+    height: auto;
+    float: none;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.getfsybot {
+    margin-top: 50px;
+}
+/*aboutUs页面*/
+.about {
+    width: 720px;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 120px;
+}
+.fqa_toph1{
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+.fqa_topp {
+    width: 90px;
+    height: 3px;
+}
+.abouttop_h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.abouttop_p {
+    width: 90px;
+    height: 3px;
+}
+.abouttop {
+    margin-bottom: 50px;
+}
+.aboutcon {
+    width: 600px;
+    margin: 0 auto;
+    height: auto;
+    margin-bottom: 50px;
+}
+.aboutconz {
+    width: 100%;
+    height: auto;
+    float: none;
+}
+.aboutcony {
+    width: 100%;
+    height: auto;
+    float: none;
+}
+.aboutcony_han {
+    padding: 10px;
+}
+.aboutcony_han1 {
+    font-size: 12px;
+    color: #474865;
+    line-height: 17px;
+    margin-bottom: 6px;
+}
+.aboutcony_han2 {
+    font-size: 12px;
+    color: #9898b7;
+    line-height: 17px;
+}
+.aboutcony_en {
+    padding: 10px;
+}
+.aboutcony_end1 {
+    font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 14px;
+    color: #474865;
+}
+.aboutcony_end2 {
+    font-size: 14px;
+    line-height: 25px;
+}
+.loginw {
+    width: 100%;
+}
+.loginw_toph1 {
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+.loginw_topp {
+    width: 70px;
+    height: 3px;
+}
+/*Docs页面*/
+.pdf {
+    width: 720px;
+}
+.geto {
+    padding-top: 120px;
+}
+.getowldiv_p {
+    font-size: 22px;
+    line-height: 30px;
+}
+.getowldivul_li {
+    height: 30px;
+    line-height: 30px;
+}
+/*demos-barrage页面*/
+.demos {
+    width: 720px;
+}
+.demos_topzh1 {
+	text-align: left;
+}
+.demos_condsend_1 {
+    padding: 0 20px;
+    width: 74%;
+}
+.chat_topuldiv {
+    max-width: 413px;
+}
+.fighter {
+    width: 100%;
+    overflow: hidden;
+}
+.fighter_bg {
+    width: 1100px;
+}
+.demos_topzbot {
+    margin-top: 24px;
+}
+.phoneQR_code{
+	display:none;
+}
+.demos_scrc {
+    width: 100%;
+}
+.partTulli_ul.partTulli_ul1{
+	margin-top: 15px;
+}
+.partTulli_ul.partTulli_ul3{
+	margin-top:46px;
+}
+.partTulli_ul.partTulli_ul4{
+	margin-top:31px;
+}
+.partTulli_ul.partTulli_ul05{
+	margin-top:18px;
+}
+.getfsh1 {
+    font-size: 25px;
+    margin-bottom: 32px;
+}
+.getfdh1{
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+}

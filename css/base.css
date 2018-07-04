@@ -1,0 +1,45 @@
+﻿@charset "utf-8";
+*{ margin: 0; padding: 0;}
+body{ background:#fff;margin: 0 auto; font-family:Arial, "Microsoft YaHei",'微软雅黑',Helvetica, Tahoma, Arial, "Hiragino Sans GB", "Hiragino Sans GB W3",  STXihei, STHeiti, Heiti, SimSun, sans-serif;}
+input,button{outline: none; background:none; border:none;}
+textarea{outline: none; background:none;}
+button{border:none;}
+img{border: 0;}
+ul,li{list-style: none;}
+a{ color:#000;}
+h1,h2,h3,h4,h5,h6{ font-weight:100}
+a,a:active,a:link,a:visited,a:focus,a:hover{text-decoration: none;}
+.clearfix:after{content: "";width: 0;height: 0;clear: both;display: block;visibility: hidden;}
+.clearfix{zoom: 1;}
+.CL{clear:both; height:0px; overflow:hidden;}
+.fl{float: left;}
+.fr{float: right;}
+button{ padding:0; margin:0;}
+.hide{ display:none}
+.lan_c{display: none;}
+
+
+/*pc端隐藏*/
+.phone_icon{
+	display: none;
+}
+.phoneNav{
+	display: none;
+}
+/*---pc端隐藏---完*/
+
+
+/*媒体查询-响应手机端*/
+@media screen and (min-width:320px) and (max-width:767px){
+.phone_icon{
+	display: block;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+	
+}
+
+
+	
+	
+}
